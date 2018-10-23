@@ -1,0 +1,14 @@
+{
+  "name": "reduxstate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --compilers babel-register"
+  },
+  "author": "Isha",
+  "license": "ISC",
+  "dependencies": {
+    "recastai": "^4.0.0"
+  }
+}
